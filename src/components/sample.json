@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Super Tuesday: What is it and why is it important?",
+            "description": "The biggest day so far in the 2024 US election calendar will be a key test of the front-runners' strength.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-68442842",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/143DE/production/_132501928_trumpbiden_2split3_getty-reuters.jpg",
+            "publishedAt": "2024-03-05T10:52:23.4252903Z",
+            "content": "Media caption, Watch: Why this Super Tuesday isn't as exciting as past ones\r\nSuper Tuesday, the biggest day so far in the 2024 race for the White House, is upon us.\r\nOn 5 March, voters in 15 states a… [+4068 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Kerr pleads not guilty to racially aggravated offence",
+            "description": "Chelsea striker Sam Kerr is set to appear in court next year after being charged with a racially aggravated offence, which she denies.",
+            "url": "https://www.bbc.co.uk/sport/football/68471815",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/14233/production/_132838428_gettyimages-2008852981.jpg",
+            "publishedAt": "2024-03-05T10:52:22.3474319Z",
+            "content": "Kerr has scored 99 goals in 128 games for Chelsea\r\nChelsea striker and Matildas captain Sam Kerr is set to face trial after being charged with racially aggravated harassment of a London police office… [+2253 chars]"
+        }
+    ]
+}
